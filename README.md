@@ -4,12 +4,12 @@ Una aplicación web progresiva (PWA) desarrollada con **Nuxt.js 3** y **Tailwind
 
 ## ✨ Características
 
-- ✅ **Crear, editar y eliminar notas** localmente
-- ✅ **Funciona completamente offline** gracias al Service Worker
-- ✅ **Instalable** en dispositivos móviles como app nativa
-- ✅ **Modo oscuro/claro** automático según preferencias del sistema
-- ✅ **Diseño moderno y profesional** con Tailwind CSS
-- ✅ **Persistencia local** con localStorage (sin backend requerido)
+- **Crear, editar y eliminar notas** localmente
+- **Funciona completamente offline** gracias al Service Worker
+- **Instalable** en dispositivos móviles como app nativa
+- **Modo oscuro/claro** automático según preferencias del sistema
+- **Diseño moderno y profesional** con Tailwind CSS
+- **Persistencia local** con localStorage (sin backend requerido)
 
 ## 🚀 Tecnologías
 
@@ -52,4 +52,4 @@ Este proyecto está bajo la Licencia MIT.
 
 ---
 
-Hecho con ❤️ usando Nuxt.js y Tailwind CSS
+Hecho usando Nuxt.js y Tailwind CSS
