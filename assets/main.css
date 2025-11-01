@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Preferencias del sistema para claro/oscuro */
+:root { color-scheme: light dark; }
+
+/* Tipografía y smoothing */
+html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+/* Focus visible accesible */
+*:focus-visible { outline: none; box-shadow: 0 0 0 2px theme('colors.sky.500'); }
+
+/* Scrollbar discreto (webkit) */
+*::-webkit-scrollbar { width: 10px; height: 10px; }
+*::-webkit-scrollbar-thumb { background: rgba(100,116,139,0.4); border-radius: 8px; }
+
+
+
+
